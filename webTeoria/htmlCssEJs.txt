@@ -1,0 +1,17 @@
+Ferramentas para desenvolvimento Frontend
+-----------------------------------------
+
+HTML
+-----
+
+-> Estrutura (semântica) da aplicação
+
+CSS
+-----
+
+-> Estilo/design da aplicação
+
+JS
+-----
+
+-> Animações e comportamento dinâmico da página

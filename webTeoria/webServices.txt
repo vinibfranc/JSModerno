@@ -1,0 +1,37 @@
+Web Service
+------------
+
+-> Serviço Web que aplicação provê
+-> Muito utilizado para comunicação entre sistemas
+-> Serviços podem ser consumidos pelo mesmo sistema (ex.: comunicação entre frontend e backend)
+
+Tipos de WS
+-----------
+
+-> Simple Object Access Protocol (SOAP)
+   Mais antigo e burocrático
+   Baseado em XML, WSDL, RPC...
+
+-> Representational State Transfer (REST)
+   Mais novo e simples
+   Baseado em HTTP e JSON (geralmente)
+
+Convenções do RESTful
+---------------------
+
+URL             Método      Descrição
+
+/cliente        POST        Novo cliente
+/clientes       GET         Obtém todos
+/clientes/36    GET         Obtém cliente 36
+/clientes/12    PUT         Atualiza cliente12
+/clientes/41     DELETE      Exclui cliente 41
+
+Escolhas Arquiteturais
+-----------------------
+
+-> SOA
+   Baseada em serviços
+
+-> Micro serviços
+   Baseada em serviços especializados

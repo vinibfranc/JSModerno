@@ -1,0 +1,19 @@
+Servidores Web
+--------------
+
+Exemplos: APACHE, TomCat, JBoss, NGINX, IIS, etc.
+
+-> URL é mandada para servidor DNS resolver o endereço
+-> Vitual hosting
+
+Estrutura de pastas
+-------------------
+
+-> Arquivos estáticos:
+   Imagens, CSS, JS, etc.
+
+Web Stack
+---------
+
+-> Composta por: linguagem, web server, BD e sistema operacional
+   Mais conhecidas: LAMP, XAMPP, WAMP, MAMP, etc.
