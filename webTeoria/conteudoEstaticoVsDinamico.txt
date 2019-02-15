@@ -1,0 +1,11 @@
+Conteúdo estático
+-----------------
+
+-> Gerado a partir de leitura de arquivos físicos no servidor Web
+-> Arquivos e pastas (sempre renderiza da mesma forma)
+
+Conteúdo dinâmico
+-----------------
+
+-> Gerado a partir de um código
+-> Baseado em URLs e modificação dos dados de acordo com consulta ao BD

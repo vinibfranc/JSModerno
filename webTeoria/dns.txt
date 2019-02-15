@@ -1,0 +1,24 @@
+Domain Name Server (DNS)
+------------------------
+
+-> Traduz nome de domínio em endereço IP
+-> Funciona sobre o protocolo UDP na porta 53
+
+Funcionamento básico
+--------------------
+1) Usuário informa endereço no browser
+2) Computador envia consulta DNS para servidor local
+3) Servidor responde com endereço IP
+4) Computador acessa o servidor a partir do IP obtido
+
+Tipos de busca
+--------------
+
+-> Recursiva
+-> Iterativa
+
+Provedores de domínio
+---------------------
+
+-> registro.br
+-> GoDaddy

@@ -1,0 +1,43 @@
+HTTP (Hyper Text Transfer Protocol)
+-----------------------------------
+
+-> Transferência de textos linkados
+-> Maior parte do tráfego da Web
+
+Características
+---------------
+
+-> Camada de aplicação
+-> Stateless
+-> Modelo cliente-servidor
+-> TCP-IP
+-> Respostas com: HTML, CSS, JS, JSON e mídias
+
+Fluxo
+------
+
+1) Usuário informa URL
+2) Browser gera a Requisição
+3) Servidor gera Resposta
+4) Browser exibe a página
+
+Métodos
+-------
+
+GET
+POST
+PUT
+DELETE
+TRACE
+OPTIONS
+CONNECT
+HEAD
+
+Grupos de Status HTTP
+---------------------
+
+1XX - Informação
+2XX - Sucesso
+3XX - Redirecionamento
+4XX - Erro no cliente
+5XX - Erro no servidor

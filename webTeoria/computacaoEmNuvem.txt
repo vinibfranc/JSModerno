@@ -1,0 +1,14 @@
+Computação em nuvem
+-------------------
+
+-> Baseado no dimensionamento de infraestrutura variável ("paga quando usa")
+
+Níveis de infraestrutura
+------------------------
+
+(Principais fornecederes: Amazon [AWS], Google Cloud Platform, Salesforce)
+
+-> IaaS
+-> FaaS
+-> SaaS
+-> PaaS

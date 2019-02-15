@@ -1,0 +1,51 @@
+Marcos da Internet
+------------------
+
+1950 -> Primeiro computador eletrônico
+1960 -> ARPANET - Departamento de Defesa Americano
+1970 -> TCP/IP - Robert Kahn e Vint Cerf
+1980 -> www - Tim Berners-Lee
+1990 -> Internet no Brasil
+2000 -> iGs, redes sociais e internet em casa
+
+Topologias
+----------
+
+Centralizada
+Distribuída -> Internet
+Web -> Teia
+
+TCP/IP
+------
+
+Transmission Control Protocol
+-> Orientado a conexão
+-> Confiável
+
+Internet Protocol
+-> Roteamento entre redes
+
+Utiliza padrão de projeto Layers (camadas)
+-> Aplicação (HTTP, FTP, SMTP, POP, DNS; comunicação processo a processo [porta])
+-> Transporte (TCP x UDP, comunicação host a host, confiabilidade e integridade)
+-> Internet (IP, conexão entre redes, transferência de pacotes)
+-> Rede/física (ethernet, wi-fi, MAC, etc)
+
+Camada de cima utiliza serviços da camada de baixo
+
+IPv4
+----
+
+Exemplo:
+192.168.100.230
+
+Classe A -> 192 identifica redes
+            168.100.230 identifica computador dentro da rede
+
+Classe B -> 192.168 identifica a rede
+            100.230 identifica computador dentro da rede
+
+Classe C -> 192.168.100 identifica a rede
+            230 identifica computador dentro da rede
+
+Porta = processo

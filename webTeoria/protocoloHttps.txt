@@ -1,0 +1,15 @@
+HTTP Seguro
+-----------
+
+-> HTTP + TLS ou SSL
+-> Dados criptografados
+-> Protege contra interceptação
+-> Criptografa tudo (URL, cookies, headers, body, etc)
+-> Uso de certificados digitais
+
+Certificados digitais
+---------------------
+
+-> Autoridades certificadores devem validar
+-> Problema da segurança das chaves
+-> Facilita processo: Certbot e LetsEncrypt

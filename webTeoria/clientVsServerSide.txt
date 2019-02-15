@@ -1,0 +1,7 @@
+Evolução das arquiteturas
+-------------------------
+
+-> Mainframes
+-> Client-server
+-> Web-server-side
+-> Front-end + services
